@@ -12,5 +12,5 @@ My computer has an Intel i7 with integrated Intel HD 630 graphics, 32 GB of RAM 
 I also have a GTX 1080 Ti, but it's very likely that it wasn't used to render the blobmark.
 
 On the release build, at 20000 blobs, my computer persisted at around over 60 FPS. 
-10% of the CPU was used with only around 50 MB of memory used.
+10% of the CPU with only around 50 MB of memory was used.
 I'm pretty happy with this result, though I'm curious to see how MonoGame will perform.
