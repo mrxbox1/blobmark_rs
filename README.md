@@ -3,6 +3,8 @@ This is _not_ a benchmark for measuring the performance of Rust.
 The actual intended purpose of this benchmark is to see whether it's worth it for me to use Macroquad at all in an upcoming project.
 Other graphics libraries or game dev frameworks (such as wgpu, ggez, bevy, piston, sdl3, and et cetera.) may be slower or faster.
 
+Though, honestly, thinking about it now, it probably was a bad idea to name this project "blobmark_rs" instead of "blobmark_macroq" or "blobmark_macroquad"...I'll probably change it sometime in the future when I decide to test other frameworks for Rust ¯\_(ツ)_/¯
+
 ## What is this?
 A benchmark to measure the performance of some graphics libraries and game dev frameworks I would like to try out.
 I'm willing to test MonoGame/XNA next with a ported version of my own code.
